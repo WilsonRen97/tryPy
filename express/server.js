@@ -8,7 +8,7 @@ const mongoose = require("mongoose");
 const Post = require("./post-model");
 mongoose
   .connect(
-    "mongodb+srv://778899:778899password@cluster0.nmke4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongodb+srv://778899:???@cluster0.nmke4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,

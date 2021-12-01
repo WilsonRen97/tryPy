@@ -18,8 +18,9 @@
   "devDependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
+    "mongoose": "^5.13.13",
     "netlify-lambda": "^1.6.3",
-    "nodemon": "^1.19.2",
-    "serverless-http": "^2.3.0"
+    "nodemon": "^1.19.4",
+    "serverless-http": "^2.7.0"
   }
 }
